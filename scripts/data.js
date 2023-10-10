@@ -1,3 +1,5 @@
+
+//ARMO BASE DE DATOS
 const arregloDeProductos = [
     new Producto('Producto1', 'NNN', 'Marca1', 49.99,'1'),
     new Producto('Producto1', 'NNN', 'Marca1', 29.99,'2'),
